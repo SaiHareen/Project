@@ -1,0 +1,6 @@
+scikit-learn==0.22.1
+whois
+beautifulsoup4
+regex
+tldextract
+
